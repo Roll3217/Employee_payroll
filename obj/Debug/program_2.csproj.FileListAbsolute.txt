@@ -1,0 +1,7 @@
+C:\Users\rider\source\repos\program_2\bin\Debug\program_2.exe.config
+C:\Users\rider\source\repos\program_2\bin\Debug\program_2.exe
+C:\Users\rider\source\repos\program_2\bin\Debug\program_2.pdb
+C:\Users\rider\source\repos\program_2\obj\Debug\program_2.csproj.AssemblyReference.cache
+C:\Users\rider\source\repos\program_2\obj\Debug\program_2.csproj.CoreCompileInputs.cache
+C:\Users\rider\source\repos\program_2\obj\Debug\program_2.exe
+C:\Users\rider\source\repos\program_2\obj\Debug\program_2.pdb
